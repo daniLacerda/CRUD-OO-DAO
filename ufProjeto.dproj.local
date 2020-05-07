@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/30 09:45:12.000.914,C:\Users\danil\Downloads\CRUD\ufProjeto.dproj=C:\Users\danil\Downloads\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/30 13:34:14.000.128,C:\Users\danil\Downloads\CRUD\ufProjeto.dproj=C:\Users\danil\Downloads\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/30 15:09:46.000.367,=C:\Users\danil\Downloads\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/04/30 15:10:11.000.868,C:\Users\danil\Downloads\CRUD\ClasseLivro.pas=C:\Users\danil\Downloads\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/04/30 17:59:59.000.502,C:\Users\danil\Downloads\CRUD\ufProjeto.dproj=C:\Users\danil\Downloads\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/30 19:11:45.000.138,C:\Users\danil\Downloads\CRUD\ufProjeto.dproj=C:\Users\danil\Downloads\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/04/30 20:07:05.000.457,C:\Users\danil\Downloads\CRUD\ufProjeto.dproj=C:\Users\danil\Downloads\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/01 09:51:16.000.314,=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 09:52:17.000.315,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\AutorDAO.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:21:05.000.222,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ModeloAutorpas.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ClasseAutor.pas</Transaction>
+    <Transaction>2020/05/01 10:21:12.000.775,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ModeloAutor.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ModeloAutorpas.pas</Transaction>
+    <Transaction>2020/05/01 10:21:47.000.214,=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 10:22:17.000.069,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ControleAutor.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 11:56:33.000.871,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\AutorDAO.pas=</Transaction>
+    <Transaction>2020/05/01 11:57:16.000.169,=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 11:59:43.000.655,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\uAutorDAO.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/01 15:40:02.000.800,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ClasseAutor.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ModeloAutor.pas</Transaction>
+    <Transaction>2020/05/01 15:40:20.000.376,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ControleAutor.pas=</Transaction>
+    <Transaction>2020/05/01 18:07:27.000.641,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/05 12:52:17.000.390,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/05 16:46:48.000.061,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/05 16:58:53.000.544,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\TAutorDAO.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\uAutorDAO.pas</Transaction>
+    <Transaction>2020/05/05 16:59:30.000.032,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\uAutorDAO.pas=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\TAutorDAO.pas</Transaction>
+    <Transaction>2020/05/05 17:17:26.000.860,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/05 20:21:58.000.279,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/06 10:55:09.000.183,D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DOCUMENTOS DaniLokura\DOCUMENTOS\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/06 11:17:59.189,=D:\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/06 11:18:08.133,D:\DELPHI\PROJETOS\CRUD\uLivroDAO.pas=D:\DELPHI\PROJETOS\CRUD\Unit1.pas</Transaction>
+    <Transaction>2020/05/06 12:38:03.808,D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/06 13:02:02.890,D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/06 16:04:18.611,D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+    <Transaction>2020/05/06 16:51:56.339,D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj=D:\DELPHI\PROJETOS\CRUD\ufProjeto.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
